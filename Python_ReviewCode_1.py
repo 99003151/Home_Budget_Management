@@ -51,7 +51,7 @@ def Exit():
 
 
 def Menu():
-    print("Select an Option: \n1.Income\n2.Expenditure")
+    print("Select an Option : \n1.Income\n2.Expenditure")
     print("\n3.Balance\n4.Reset Data\n5.Exit\n")
     option = input()
     if(option == 1):
